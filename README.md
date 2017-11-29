@@ -1,7 +1,8 @@
 # RWD homework
 
 1. Create layouts based on ```flexbox``` for 3 breakpoinst ( 1920px, 1280px, 375px)
-2. Layout shoud be responsive( with smooth transitions beetwen BP)
+2. Layout should be responsive( with smooth transitions beetwen BP)
+3. Layout should be without text and images
 
 ## Colors
 ![Colors](https://github.com/ibardak/rwd-hw/blob/master/Colors.png)
